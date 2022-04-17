@@ -26,9 +26,9 @@ const Cart = (props) => {
           <h4>{book.name}</h4>
           <p>Yazar: {book.author}</p>
           <p>Fiyat: &#8378;{book.price}</p>
-          <button>-</button>
+          {/* <button>-</button>
           <button>Sepetten Çıkar</button>
-          <button>+</button>
+          <button>+</button> */}
         </div>
       </div>
 
